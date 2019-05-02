@@ -7,6 +7,10 @@ Table of Contents
    * [Collections](#collections)
    * [Fun](#fun)
    * [Reddit](#reddit)
+   
+   
+# Physics
+[what is reality](https://www.youtube.com/watch?v=w0ztlIAYTCU&frags=pl%2Cwn)
 
 # Medium Articles
 [synthetic-data-generation](https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae?fbclid=IwAR19LK6vqqOox1YUyhOucVmwuZ_n8NJbIx4C-b_OyJe3KqLyX-59SCJBBs0)
