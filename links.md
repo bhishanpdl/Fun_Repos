@@ -1,16 +1,23 @@
-# hollywood movies 
+Table of Contents
+=================
+   * [Research Papers](#research-papers)
+   * [Hollywood Movies](#hollywood-movies)
+   * [Bollywood movies](#bollywood-movies)
+   * [Games](#games)
+# Research Papers
+https://sci-hub.tw/
+
+# Hollywood Movies 
 - https://www3.1movies.is/
 
-# bollywood movies
+# Bollywood movies
 - https://www.quertime.com/article/top-best-sites-to-watch-free-bollywood-hindi-movies/
 - https://einthusan.tv/
 - https://www.hindilinks4u.to/
 - https://123gomovie.net/
 - https://www7.fmovies.to/country/india
 
-
-
-# soccer  
+# Games
 - https://tumarcador.xyz/
 - http://www.indiostv.com/
 - https://www.stream2watch.ws/
