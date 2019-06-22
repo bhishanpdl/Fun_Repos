@@ -21,3 +21,4 @@ https://sci-hub.tw/
 - https://tumarcador.xyz/
 - http://www.indiostv.com/
 - https://www.stream2watch.ws/
+- https://cricket-live.stream/watch/new-zealand-live.html
