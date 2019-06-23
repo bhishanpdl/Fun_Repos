@@ -1,11 +1,16 @@
 Table of Contents
 =================
    * [Research Papers](#research-papers)
+   * [Pdf manipulation](#pdf-manipulation)
    * [Hollywood Movies](#hollywood-movies)
    * [Bollywood movies](#bollywood-movies)
    * [Games](#games)
+   
 # Research Papers
 https://sci-hub.tw/
+
+# Pdf manipulation
+https://www.ilovepdf.com/
 
 # Hollywood Movies 
 - https://www3.1movies.is/
