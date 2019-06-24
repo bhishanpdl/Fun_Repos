@@ -6,6 +6,10 @@ Table of Contents
    * [Bollywood movies](#bollywood-movies)
    * [Games](#games)
    
+# Books audio anything
+https://b-ok.cc/
+https://archive.org/
+
 # Research Papers
 https://sci-hub.tw/
 
