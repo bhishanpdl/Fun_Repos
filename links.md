@@ -30,7 +30,7 @@ https://www.ilovepdf.com/
 - https://tumarcador.xyz/
 - http://www.indiostv.com/
 - https://www.stream2watch.ws/
-- https://cricket-live.stream/watch/new-zealand-live.html
+- https://cricket-live.stream
 
 # Fun websites
 - https://thetopofmounteverest.com/#home
