@@ -7,6 +7,7 @@ Table of Contents
    * [Hollywood Movies](#hollywood-movies)
    * [Bollywood Songs](#bollywood-songs)
    * [Bollywood movies](#bollywood-movies)
+   * [Transfer songs to Samsung](#transfer-songs-to-samsung)
    * [Fun websites](#fun-websites)
  
 # Research Papers
@@ -38,5 +39,15 @@ https://www.songsmp3.cool/
 - https://123gomovie.net/
 - https://www7.fmovies.to/country/india
 
+# Transfer songs to Samsung
+```
+- On Samsung and MacPro both: open the app AirDroid
+- I could not send directly to extrnal sd card, but can send to internal sd card.
+- On mac: go to Airdroid > SD card > Music > FromAirDroid > and drag mp3 files here
+- They will be sent to phone directly using Wi-Fi.
+- On phone: My Files > Internal Storage > Music > FromAirDroid > Long press one file > Click select all > Move to sd card.
+```
+
 # Fun websites
 - https://thetopofmounteverest.com/#home
+
