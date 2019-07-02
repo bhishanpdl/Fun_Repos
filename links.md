@@ -14,8 +14,8 @@ Table of Contents
 https://sci-hub.tw/
 
 # Books
-https://b-ok.cc/
-https://archive.org/
+- https://b-ok.cc/
+- https://archive.org/
 
 # Pdf manipulation
 https://www.ilovepdf.com/
@@ -30,7 +30,8 @@ https://www.ilovepdf.com/
 - https://www3.1movies.is/
 
 # Bollywood Songs
-https://www.songsmp3.cool/
+- https://www.songsmp3.cool/
+- Listen songs list: https://gaana.com/album/kabir-singh
 
 # Bollywood movies
 - https://www.quertime.com/article/top-best-sites-to-watch-free-bollywood-hindi-movies/
