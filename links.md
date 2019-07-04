@@ -3,12 +3,14 @@ Table of Contents
    * [Research Papers](#research-papers)
    * [Books](#books)
    * [Pdf manipulation](#pdf-manipulation)
-   * [Games](#games)
+   * [Soccer](#soccer)
+   * [Cricket](#cricket)
    * [Hollywood Movies](#hollywood-movies)
    * [Bollywood Songs](#bollywood-songs)
    * [Bollywood movies](#bollywood-movies)
    * [Transfer songs to Samsung](#transfer-songs-to-samsung)
    * [Fun websites](#fun-websites)
+
  
 # Research Papers
 https://sci-hub.tw/
@@ -20,10 +22,13 @@ https://sci-hub.tw/
 # Pdf manipulation
 https://www.ilovepdf.com/
 
-# Games
+# Soccer
+- Multiple Sports: https://www.stream2watch.ws/
+- Club Games: http://www.indiostv.com/
 - https://tumarcador.xyz/
-- http://www.indiostv.com/
-- https://www.stream2watch.ws/
+
+
+# Cricket
 - https://cricket-live.stream
 
 # Hollywood Movies 
