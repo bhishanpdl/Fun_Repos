@@ -39,9 +39,8 @@ https://www.ilovepdf.com/
 - Listen songs list: https://gaana.com/album/kabir-singh
 
 # Bollywood movies
-- https://www.quertime.com/article/top-best-sites-to-watch-free-bollywood-hindi-movies/
-- https://einthusan.tv/
-- https://www.hindilinks4u.to/
+- Hindi: https://www.hindilinks4u.to/
+- South: https://einthusan.tv/
 - https://123gomovie.net/
 - https://www7.fmovies.to/country/india
 
