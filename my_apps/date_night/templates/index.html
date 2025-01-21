@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <script defer src="/static/script.js"></script>
+    <title>Date Night Ideas</title>
+</head>
+<body>
+    <h1>🎲 Date Night Dice 🎲</h1>
+    <div class="sections">
+        <button onclick="rollDice('What to Eat')">What to Eat 🍴</button>
+        <button onclick="rollDice('What to Do')">What to Do 🎭</button>
+        <button onclick="rollDice('After That')">After That 🍹</button>
+        <button onclick="rollDice('Sexy Time')">Sexy Time 💋</button>
+    </div>
+    <div id="result-container">
+        <img id="dice-gif" src="/static/dice.gif" alt="Rolling Dice" hidden>
+        <p id="result"></p>
+    </div>
+</body>
+</html>
